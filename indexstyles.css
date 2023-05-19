@@ -1,0 +1,37 @@
+body {
+    background-color: #9bced1;
+    background: url('https://images.pexels.com/photos/1854664/pexels-photo-1854664.jpeg?auto=compress&cs=tinysrgb&w=1600');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover ;
+    
+
+}
+img{
+    width: 400px;
+    height: auto;
+}
+
+h1{
+    color: rgb(10, 41, 70);
+    font-size: xx-large;
+}
+a{
+    color:black;
+}
+a:hover{
+    font-size: 20px;
+    
+}
+.home{
+    font-size: 20px;
+    font-weight: bold;
+    color: rgb(45, 185, 185);
+}
+h2{
+    color: rgb(13, 13, 109);
+}
+
+.home:hover{
+    font-size:30px;
+}
