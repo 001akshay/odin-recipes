@@ -7,31 +7,42 @@ body {
     
 
 }
-img{
-    width: 400px;
-    height: auto;
-}
+
 
 h1{
-    color: rgb(10, 41, 70);
-    font-size: xx-large;
+    color: rgb(151, 71, 53);
+    font-size: 50px;
+    text-decoration:underline;
+ 
 }
+
 a{
+    font-size: 20px;
     color:black;
 }
 a:hover{
-    font-size: 20px;
-    
-}
-.home{
-    font-size: 20px;
-    font-weight: bold;
-    color: rgb(45, 185, 185);
-}
-h2{
-    color: rgb(13, 13, 109);
+    font-size: 25px;
+    color:rgb(230, 227, 188);
 }
 
-.home:hover{
-    font-size:30px;
+
+#title,.block{
+    text-align: center;
+    margin: auto;
+    
+}
+#title{
+    margin-top: 40px;
+    margin-bottom: 30px;
+}
+
+.block{
+    width : 200px;
+    background-color: #c09c7a;
+    border-radius: 10px;
+    padding:10px 30px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.recipee{
+    margin-bottom: 20px;
 }
